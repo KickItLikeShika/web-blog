@@ -31,7 +31,7 @@ public class AuthController {
     @RequestMapping(value = "/signup", method = RequestMethod.POST)
     public String signUp(@RequestBody RegisterRequest registerRequest) {
         return authService.signUp(registerRequest);
-//        return new ResponseEntity(HttpStatus.OK);
+        // return new ResponseEntity(HttpStatus.OK);
     }
 
     @RequestMapping(value = "/login", method = RequestMethod.POST)
