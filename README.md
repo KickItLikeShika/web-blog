@@ -1,6 +1,6 @@
 # Web Blog
 
-REST API for a web blog using Spring boot, Spring security, JWT, JPA, and MySQL. You can register, login, post, show all posts, get a specific post.
+RESTful API for a web blog using Spring boot, Spring security, JWT, JPA, and MySQL. You can register, login, post, show all posts, get a specific post.
 
 # How to run
 
